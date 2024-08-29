@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+.table {
+    padding: 50px;
+}
+
+.highlight {
+    font-weight: bold;
+    color: #ff4d4f; /* Highlight color */
+}
+.disable {
+    background-color: gray;
+    pointer-events: none;
+}
